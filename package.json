@@ -1,0 +1,22 @@
+{
+  "name": "teste beedoo",
+  "version": "1.0.0",
+  "description": "Teste Beedoo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jac",
+  "license": "Jac",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^9.7.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "git": "^0.1.5",
+    "yarn": "^1.22.19"
+  }
+}
